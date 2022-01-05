@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imports/QQmlTricks.3/ComboList.qml</file>
+        <file>imports/QQmlTricks.3/FileSelector.qml</file>
+        <file>imports/QQmlTricks.3/qmldir</file>
+        <file>imports/QQmlTricks.3/ScrollContainer.qml</file>
+        <file>imports/QQmlTricks.3/TricksStyle.qml</file>
+        <file>imports/QQmlTricks.3/TextBox.qml</file>
+        <file>imports/QQmlTricks.3/TextButton.qml</file>
+        <file>imports/QQmlTricks.3/TextLabel.qml</file>
+        <file>imports/QQmlTricks.3/SliderBar.qml</file>
+        <file>imports/QQmlTricks.3/ProgressJauge.qml</file>
+        <file>imports/QQmlTricks.3/CheckableBox.qml</file>
+        <file>imports/QQmlTricks.3/ToolBar.qml</file>
+        <file>imports/QQmlTricks.3/TabBar.qml</file>
+        <file>imports/QQmlTricks.3/NumberBox.qml</file>
+        <file>imports/QQmlTricks.3/Line.qml</file>
+        <file>imports/QQmlTricks.3/MultiLineTextBox.qml</file>
+        <file>imports/QQmlTricks.3/Balloon.qml</file>
+        <file>imports/QQmlTricks.3/StatusBar.qml</file>
+        <file>imports/QQmlTricks.3/SymbolLoader.qml</file>
+        <file>imports/QQmlTricks.3/AbstractSymbol.qml</file>
+        <file>imports/QQmlTricks.3/ModalDialog.qml</file>
+        <file>imports/QQmlTricks.3/AutoRepeatableClicker.qml</file>
+        <file>imports/QQmlTricks.3/SvgIconLoader.qml</file>
+        <file>imports/QQmlTricks.3/ComboListDelegateForControl.qml</file>
+        <file>imports/QQmlTricks.3/ComboListDelegateForDropdown.qml</file>
+        <file>imports/QQmlTricks.3/Stretcher.qml</file>
+        <file>imports/QQmlTricks.3/Accordion.qml</file>
+        <file>imports/QQmlTricks.3/PanelContainer.qml</file>
+    </qresource>
+</RCC>

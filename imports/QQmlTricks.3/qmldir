@@ -1,0 +1,31 @@
+module QQmlTricks
+
+singleton TricksStyle                         3.0 TricksStyle.qml
+
+AbstractSymbol                          3.0 AbstractSymbol.qml
+Accordion                               3.0 Accordion.qml
+AutoRepeatableClicker                   3.0 AutoRepeatableClicker.qml
+Balloon                                 3.0 Balloon.qml
+CheckableBox                            3.0 CheckableBox.qml
+ComboList                               3.0 ComboList.qml
+ComboListDelegateForControl             3.0 ComboListDelegateForControl.qml
+ComboListDelegateForDropdown            3.0 ComboListDelegateForDropdown.qml
+FileSelector                            3.0 FileSelector.qml
+Group                                   3.0 Group.qml
+Line                                    3.0 Line.qml
+ModalDialog                             3.0 ModalDialog.qml
+MultiLineTextBox                        3.0 MultiLineTextBox.qml
+NumberBox                               3.0 NumberBox.qml
+PanelContainer                          3.0 PanelContainer.qml
+ProgressJauge                           3.0 ProgressJauge.qml
+ScrollContainer                         3.0 ScrollContainer.qml
+SliderBar                               3.0 SliderBar.qml
+StatusBar                               3.0 StatusBar.qml
+Stretcher                               3.0 Stretcher.qml
+SvgIconLoader                           3.0 SvgIconLoader.qml
+SymbolLoader                            3.0 SymbolLoader.qml
+TabBar                                  3.0 TabBar.qml
+TextBox                                 3.0 TextBox.qml
+TextButton                              3.0 TextButton.qml
+TextLabel                               3.0 TextLabel.qml
+ToolBar                                 3.0 ToolBar.qml
